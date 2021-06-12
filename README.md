@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+This is Bo Pang, a student in Wuhan University.
+
+I'm a ICPCer, knows a little of algorithms and data structures.
+
+I'm majoring Software engineering.
+
+I'm new in many things, and I'd like to learn it.Maybe my goal is to develop a usefull softwere, instead of ICPC code.
+
+My email:pangbo-2019@whu.edu.cn
 
 <!--
 **SkyCrystal/SkyCrystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
